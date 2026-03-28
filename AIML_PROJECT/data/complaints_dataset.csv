@@ -1,0 +1,21 @@
+text,department
+"The wifi in block B is completely down since morning",IT
+"My laptop cannot connect to the campus network",IT
+"Server is returning 500 error on the student portal",IT
+"Cannot access the university email",IT
+"Wifi speed is too slow in the library",IT
+"There is a huge water leak in my hostel bathroom",Hostel
+"Bed is creaking and broken",Hostel
+"Window glass in my room is shattered",Hostel
+"Food in the mess is totally raw today",Hostel
+"The washing machine on the 3rd floor is not working",Hostel
+"I need my transcript for last semester",Academics
+"Professor has not uploaded the presentation slides yet",Academics
+"Course registration page is crashing",Academics
+"Please update my cgpa on the dashboard",Academics
+"I want to change my elective subject",Academics
+"Fan regulator is broken in room 302",Maintenance
+"The projector in lab 2 is not turning on",Maintenance
+"AC in the library is leaking water",Maintenance
+"Street light near the main gate is fused",Maintenance
+"Tap in the chemistry lab is continuously dropping water",Maintenance
