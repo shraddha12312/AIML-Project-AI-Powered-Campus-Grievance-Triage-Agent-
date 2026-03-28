@@ -36,14 +36,14 @@ pip install -r requirements.txt
 
 # 2. Download the NLP Lexicon required for Sentiment Analysis
 python -c "import nltk; nltk.download('vader_lexicon')"
-```
+
 
 ### 3. Usage Steps
 The system operates in two phases: **Training the ML Model** and **Running the Intelligent Agent**.
 
 **Step A: Train the Model**
 Run this to train the classifier on the provided dataset. It will generate a model file (`department_classifier.pkl`) and a vectorizer (`tfidf_vectorizer.pkl`).
-```bash
+```
 python src/model_training.py
 ```
 
